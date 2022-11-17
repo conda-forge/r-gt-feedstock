@@ -27,37 +27,39 @@ requirements:
   host:
     - r-base
     - r-base64enc >=0.1_3
-    - r-bitops >=1.0.6
-    - r-checkmate >=2.0.0
-    - r-commonmark >=1.7
+    - r-bigd >=0.1
+    - r-bitops >=1.0.7
+    - r-cli >=3.4.1
+    - r-commonmark >=1.8
     - r-dplyr >=1.0.8
     - r-fs >=1.5.2
     - r-ggplot2 >=3.3.5
     - r-glue >=1.6.1
     - r-htmltools >=0.5.2
+    - r-juicyjuice >=0.1.0
     - r-magrittr >=2.0.2
-    - r-rlang >=1.0.1
-    - r-sass >=0.4.0
-    - r-scales >=1.1.1
-    - r-stringr >=1.4.0
+    - r-rlang >=1.0.2
+    - r-sass >=0.4.1
+    - r-scales >=1.2.0
     - r-tibble >=3.1.6
     - r-tidyselect >=1.1.1
   run:
     - r-base
     - r-base64enc >=0.1_3
-    - r-bitops >=1.0.6
-    - r-checkmate >=2.0.0
-    - r-commonmark >=1.7
+    - r-bigd >=0.1
+    - r-bitops >=1.0.7
+    - r-cli >=3.4.1
+    - r-commonmark >=1.8
     - r-dplyr >=1.0.8
     - r-fs >=1.5.2
     - r-ggplot2 >=3.3.5
     - r-glue >=1.6.1
     - r-htmltools >=0.5.2
+    - r-juicyjuice >=0.1.0
     - r-magrittr >=2.0.2
-    - r-rlang >=1.0.1
-    - r-sass >=0.4.0
-    - r-scales >=1.1.1
-    - r-stringr >=1.4.0
+    - r-rlang >=1.0.2
+    - r-sass >=0.4.1
+    - r-scales >=1.2.0
     - r-tibble >=3.1.6
     - r-tidyselect >=1.1.1
 
