@@ -3,15 +3,20 @@ About r-gt-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gt-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/rstudio/gt
+Home: https://gt.rstudio.com/
 
 Package license: MIT
 
-Summary: Build display tables from tabular data using with an easy-to-use API. With its progressive
-approach, we can construct display tables with a clear separation of concerns: you
-don''t have to decide how the tabular data gets transformed and structured whilst
-also worrying about aesthetics.
+Summary: Build display tables from tabular data with an easy-to-use set of
+functions. With its progressive approach, we can construct display tables
+with a cohesive set of table parts. Table values can be formatted using any
+of the included formatting functions. Footnotes and cell styles can be
+precisely added through a location targeting system. The way in which 'gt'
+handles things for you means that you don't often have to worry about the
+fine details.
 
+
+Development: https://github.com/rstudio/gt
 
 Current build status
 ====================
